@@ -1,3 +1,3 @@
 # calcul_app
 
-Calcul app
+Calcul app for phone. 
